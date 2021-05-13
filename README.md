@@ -19,10 +19,12 @@ Requirements:
 - Mysql
 - PHPMyadmin
 
-Optional:
+Choose a option:
 -
 
-- Registered domain (FQDN) pointing to your apache2 or nginx server (I'm using apache2)
+1. Register a domain (FQDN) pointing to your apache2 or nginx server (I'm using apache2)
+2. Install ngrok - https://ngrok.com/download and proxy it through to your apache2 (or nginx) server
+3. Just locally host the web application 
 
 Install:
 -
