@@ -1,6 +1,6 @@
 # Webpage-Fingerprinter
 Originally forked from fingerprintjs2 (thanks guys). 
-I developed this application as an education peace for individuals to gain awareness on browser fingerprinting.
+I developed this web application as an education peace for individuals to gain awareness on browser fingerprinting.
 
 Has been coded with bootstrap so the web application is compatible on mobile devices.
 
@@ -50,5 +50,5 @@ Screenshots:
  - The Pitaya Team
  - The Hak5 Community
  - Marufhasan1 
- - <hackerthemes>
+ - hackerthemes
 
