@@ -9,6 +9,8 @@ The application itself is very straight foward, once a client visits the webpage
 - Browser
 - Serialized device fingerprint
 
+![alt text](https://github.com/alegra8611/Webpage-Fingerprinter/blob/main/screenshots/f5.png?raw=true)
+
 Requirements:
 -
 - Apache2 or Nginx
@@ -23,4 +25,12 @@ Install:
 - edit the inject.php and enter in your database host, username and password
 - import the database.sql file into yout phpMyadmin interface (or via the command line)
 - copy all contents within the Webpage-Fingerprinter directory into your /var/www/html folder
-- sudo service apache2 (or nginx) restart 
+- sudo service apache2 (or nginx) restart
+
+Screenshots:
+-
+
+![alt text](https://github.com/alegra8611/Webpage-Fingerprinter/blob/main/screenshots/f1.png?raw=true)
+![alt text](https://github.com/alegra8611/Webpage-Fingerprinter/blob/main/screenshots/f2.png?raw=true)
+![alt text](https://github.com/alegra8611/Webpage-Fingerprinter/blob/main/screenshots/f4.png?raw=true)
+
