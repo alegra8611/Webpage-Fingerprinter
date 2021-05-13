@@ -18,6 +18,7 @@ Requirements:
 - Apache2 or Nginx
 - Mysql
 - PHPMyadmin
+- Registered domain (FQDN) pointing to your apache2 or nginx server (I'm using apache2)
 
 Install:
 -
