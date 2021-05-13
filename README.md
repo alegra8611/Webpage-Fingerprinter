@@ -43,3 +43,12 @@ Screenshots:
 ![alt text](https://github.com/alegra8611/Webpage-Fingerprinter/blob/main/screenshots/f2.png?raw=true)
 ![alt text](https://github.com/alegra8611/Webpage-Fingerprinter/blob/main/screenshots/f4.png?raw=true)
 
+ Special Mentions:
+ -
+ 
+ - The fingerprintjs team
+ - The Pitaya Team
+ - The Hak5 Community
+ - Marufhasan1 
+ - <hackerthemes>
+
