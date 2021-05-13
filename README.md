@@ -13,6 +13,8 @@ The application itself is very straight foward, once a client visits the webpage
 
 ![alt text](https://github.com/alegra8611/Webpage-Fingerprinter/blob/main/screenshots/f5.png?raw=true)
 
+Open to any new ideas.
+
 Requirements:
 -
 - Apache2 or Nginx
