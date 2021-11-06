@@ -1,8 +1,8 @@
 <?php
-   $host ='127.0.0.1';
-   $database='server_obs';
-   $username='root';
-   $password='micheal13';
+   $host ='';
+   $database='';
+   $username='';
+   $password='';
    
 $conn=new mysqli($host, $username, $password, $database);
 
