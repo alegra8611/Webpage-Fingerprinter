@@ -11,7 +11,11 @@ CREATE TABLE `recon` (
   `Device_Fingerprint` varchar(300) CHARACTER SET latin1 COLLATE latin1_bin DEFAULT NULL,
   `ipAddress` varchar(300) DEFAULT NULL,
   `Operating_System` varchar(300) DEFAULT NULL,
-  `Browser` varchar(300) DEFAULT NULL
+  `Browser` varchar(300) DEFAULT NULL,
+  `location` varchar(300) DEFAULT NULL,
+  `incognitos` varchar(300) DEFAULT NULL,
+  `vpn_detect` varchar(300) DEFAULT NULL,
+  `time_created` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp()
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- Indexes for table `recon`
