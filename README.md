@@ -11,7 +11,7 @@ The application itself is very straight foward, once a client visits the webpage
 - Browser
 - Serialized device fingerprint
 
-Demo: https://bunny-pi.com
+Demo: https://demo.8611876.tk
 
 ![alt text](https://github.com/alegra8611/Webpage-Fingerprinter/blob/main/screenshots/f5.png?raw=true)
 
