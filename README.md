@@ -38,6 +38,7 @@ Install:
 - git clone https://github.com/alegra8611/Webpage-Fingerprinter.git
 - cd Webpage-Fingerprinter
 - edit the connect.php located in the /php directory and enter in your database host, username and password
+- extract the database.tar.gz archive
 - import the database.sql file into yout phpMyadmin interface (or via the command line)
 - copy all contents within the Webpage-Fingerprinter directory into your /var/www/html folder
 - sudo service apache2 (or nginx) restart
