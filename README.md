@@ -7,6 +7,7 @@ Has been coded with bootstrap so the web application is compatible on mobile dev
 The application itself is very straight foward, once a client visits the webpage the application will extract the following data to a mysql database:
 
 - IP Address
+- Current IP Location
 - Operating System
 - Browser
 - Serialized device fingerprint
