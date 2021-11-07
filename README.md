@@ -13,7 +13,6 @@ The application itself is very straight foward, once a client visits the webpage
 
 Demo: https://demo.8611876.tk
 
-![alt text](https://github.com/alegra8611/Webpage-Fingerprinter/blob/main/screenshots/f5.png?raw=true)
 
 Open to any new ideas.
 
@@ -44,8 +43,7 @@ Screenshots:
 -
 
 ![alt text](https://github.com/alegra8611/Webpage-Fingerprinter/blob/main/screenshots/f1.png?raw=true)
-![alt text](https://github.com/alegra8611/Webpage-Fingerprinter/blob/main/screenshots/f2.png?raw=true)
-![alt text](https://github.com/alegra8611/Webpage-Fingerprinter/blob/main/screenshots/f4.png?raw=true)
+
 
  Special Mentions:
  -
