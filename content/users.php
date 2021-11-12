@@ -63,7 +63,8 @@
             <div class="ht-tm-element card border-danger mb-3 text-center">
                <h1 class="card-title text-center">Page Hits</h1>
                <div class="card-body">
-                  <table class="table table-hover" style="text-align: left;">
+                <div class="table-responsive" style="text-align: left;">
+                  <table class="card-table table" >
                      <thead class="thead-dark">
                         <tr>
                            <th scope="col">Device Fingerprint</th>
@@ -93,6 +94,7 @@
                         <?php } ?>
                      </tbody>
                   </table>
+                </div>
                     <button onclick="tableToCSV()" class="btn btn-shadow text-mono btn-danger">Download CSV File</button>
                     <script src="../js/csv.js"></script>
                </div>
