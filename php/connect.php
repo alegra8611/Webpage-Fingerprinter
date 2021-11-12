@@ -1,4 +1,5 @@
 <?php
+   $flags_dir = '/var/www/html/demo/images/flags';  
    $host ='127.0.0.1';
    $database='server_obs';
    $username='';
