@@ -72,6 +72,7 @@
                            <th scope="col">Operating System</th>
                            <th scope="col">Browser</th>
                            <th scope="col">Location</th>
+                           <th scope="col"></th>
                            <th scope="col">Incognito</th>
                            <th scope="col">VPN Detection</th>
                            <th scope="col">Last Hit</th>
@@ -80,12 +81,14 @@
                      </thead>
                      <tbody>
                         <?php while($row = mysqli_fetch_array($result)){ ?>
+
                         <tr>
                            <td><?php echo $row['Device_Fingerprint']; ?></td>
                            <td><?php echo $row['ipAddress']; ?></td>
                            <td><?php echo $row['Operating_System']; ?></td>
                            <td><?php echo $row['Browser']; ?></td>
                            <td><?php echo $row['location']; ?></td>
+                           <td> <?php echo '<img src="data:image/png;base64,'.base64_encode($row['country_flag']).'"/>' ?> </td>
                            <td><?php echo $row['incognitos']; ?></td>
                            <td><?php echo $row['vpn_detect']; ?></td>
                            <td><?php echo $row['time_created']; ?></td>
@@ -110,3 +113,16 @@
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
    </body>
 </html>
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
