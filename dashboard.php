@@ -32,8 +32,8 @@
 
 <?php
    require(dirname(__FILE__) . '/php/connect.php');
-   //$ip = gethostbyname($_SERVER["REMOTE_ADDR"]);
-   $ip = '1.1.0.255';
+   $ip = gethostbyname($_SERVER["REMOTE_ADDR"]);
+   //$ip = '1.1.0.255';
    $sql = "SELECT * FROM geoip WHERE INET_ATON('$ip') BETWEEN ip_from AND ip_to";
    $locstat = mysqli_query($conn,$sql);
    $result = mysqli_query($conn,$sql);
