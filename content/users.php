@@ -95,7 +95,7 @@
                <h1 class="card-title text-center">Page Hits</h1>
                <div class="card-body">
                   <div class="table-responsive overflow-hidden" style="text-align: left;">
-                     <table class="card-table table" id="table_id">
+                     <table class="card-table table table-bordered table-hover" id="table_id">
                         <thead class="thead-dark">
                            <tr>
                               <th>Device Fingerprint</th>
@@ -163,4 +163,29 @@
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
    </body>
 </html>  
-                           
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
