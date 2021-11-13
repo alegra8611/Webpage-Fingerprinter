@@ -12,7 +12,7 @@ The application itself is very straight foward, once a client visits the webpage
 - Browser
 - Serialized device fingerprint
 
-![alt text](https://github.com/alegra8611/Webpage-Fingerprinter/blob/main/screenshots/sc10.png?raw=true)
+![alt text](https://github.com/alegra8611/Webpage-Fingerprinter/blob/main/screenshots/s10.png?raw=true)
 
 Demo: https://demo.8611876.tk
 
