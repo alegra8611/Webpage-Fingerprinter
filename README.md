@@ -14,7 +14,7 @@ The application itself is very straight foward, once a client visits the webpage
 
 ![alt text](https://github.com/alegra8611/Webpage-Fingerprinter/blob/main/screenshots/s10.png?raw=true)
 
-Demo: https://demo.8611876.tk
+Demo: https://alegra.tk/fingerprinter
 
 
 Open to any new ideas.
